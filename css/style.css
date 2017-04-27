@@ -1,0 +1,15 @@
+body {
+    padding: 20px;
+    background: #fff9c5;
+    margin: 0;
+
+}
+
+#element {
+    position: absolute;
+    background: #ccc;
+    border: 1px solid #000099;
+    width: 100px;
+    height: 100px;
+    opacity: 0.3;
+}
